@@ -1,10 +1,8 @@
-# <TÍTULO DO PROJETO>
+# Projeto Titanic
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este projeto tem como objetivo analisar o conjunto de dados do Titanic, investigando os fatores que influenciaram a sobrevivência dos passageiros durante o desastre. 
+
+![graphical abstract](images/graphical-abstract.png)
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+ - [Lucas Pinheiro](https://github.com/Lucas-p00)
