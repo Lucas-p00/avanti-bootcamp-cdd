@@ -1,4 +1,4 @@
-# Projeto Titanic
+# Titanic Survival Analysis
 
 Este projeto tem como objetivo analisar o conjunto de 
 dados do Titanic, investigando os principais fatores que 
